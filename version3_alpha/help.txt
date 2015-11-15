@@ -1,0 +1,16 @@
+CONTROLS:
+Movement                                Menu
+w - Jump				Up - Select Prev Option
+a - Backward				Down - Select Next Option
+s - Duck				Enter - Select
+d - Forward
+A - Duck and Backward
+D - Duck and Forward
+q - Jump and Backward
+e - Jump and Forward
+Q - Long Jump and Backward
+E - Long Jump and Forward
+p - Pause
+o - Exit to Shell
+
+
