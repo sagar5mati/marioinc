@@ -1,9 +1,6 @@
 MARIO IN C
 Sagar Panchmatia 111403067
 
-NOTE:
-The bug seen in loading a game in the video has been solved
-
 Description:
 
 The following program is an implementation of the classic Mario game in C Language using ncurses library
